@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "113113473703",
+    "project_id": "lapinpongonline",
+    "storage_bucket": "lapinpongonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113113473703:android:7b30e6b6727c92ba257182",
+        "android_client_info": {
+          "package_name": "com.game.lapinpongonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113113473703-lmhdvk5n880rdq5d3goq3hk35n1gk7b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.game.lapinpongonline",
+            "certificate_hash": "1610f9e1b9c229794522cf987d1768055769952c"
+          }
+        },
+        {
+          "client_id": "113113473703-m2h8urvbcuncgd0gl326otrvnl1hcrpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLp_GymlfyNrXJzxouDGqoSpzxSYldwkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113113473703-m2h8urvbcuncgd0gl326otrvnl1hcrpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

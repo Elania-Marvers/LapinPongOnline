@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LapinPongOnline</string>
+    <string name="welcome_to_lapinpongonline_please_authenticathe">Welcome to LapinPongOnline !</string>
+    <string name="WebIDClient">113113473703-m2h8urvbcuncgd0gl326otrvnl1hcrpn.apps.googleusercontent.com</string>
+    <string name="connexion">Connexion</string>
+    <string name="deconnexion">Deconnexion</string>
+    <string name="web_client_id">AIzaSyDSsFvqHyx0M4ebPnzE0VenqssxOo-wAnw</string>
+</resources>
