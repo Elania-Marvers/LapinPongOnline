@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RulesActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Règles !"
+        android:textSize="25sp"
+/>
+
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="vous avez un bouton  send et un bouton miner\nsi vous appuyer sur le bouton miner avec le lapin blanc vous gagner 10 points, si vous avez le lapin noir vous perdez 20 points\nsi vous avez le lapin noir vous pouvez appuyer  sur le bouton send pour l'envoyer a l'adversaire !\n\nle premier arrivé à 1000 points gagne."
+
+        />
+
+
+
+    <Button
+        android:id="@+id/home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Retours"
+        />
+
+</LinearLayout>

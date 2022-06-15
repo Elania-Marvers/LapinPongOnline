@@ -34,6 +34,12 @@
         android:layout_height="wrap_content"
         android:text="create match !" />
 
+    <Button
+        android:id="@+id/rules"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Règles" />
+
 
     <Button
         android:id="@+id/logOutBtn"
